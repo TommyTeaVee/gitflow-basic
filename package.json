@@ -1,0 +1,11 @@
+{
+  "name": "gitflow-basic",
+  "version": "1.0.0",
+  "description": "First init of GIT Dashboard template setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
